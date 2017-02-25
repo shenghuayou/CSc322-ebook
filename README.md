@@ -9,3 +9,14 @@ Qi Feng Huang
 Varan Sharma
 
 Shenghua You
+
+## Demo ##
+<img src=https://github.com/shenghuayou/CSc322-ebook/blob/master/image/1.png />
+
+<img src=https://github.com/shenghuayou/CSc322-ebook/blob/master/image/2.png />
+
+<img src=https://github.com/shenghuayou/CSc322-ebook/blob/master/image/3.png />
+
+<img src=https://github.com/shenghuayou/CSc322-ebook/blob/master/image/4.png />
+
+<img src=https://github.com/shenghuayou/CSc322-ebook/blob/master/image/5.png />
